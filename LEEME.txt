@@ -1,0 +1,49 @@
+NO HE VENIDO A CAERTE BIEN — DISEÑO ORIGINAL RESTAURADO
+=============================================================
+
+QUÉ ES
+Una web moderna y adaptable al móvil hecha solo con HTML, CSS y JavaScript.
+No requiere WordPress, cuenta de pago ni instalar dependencias.
+
+ABRIR Y PROBAR
+Haz doble clic en index.html. Todos los recursos son locales (excepto fuentes de Google opcionales).
+Abre el adelanto desde el botón "Leer un adelanto gratis".
+
+PUBLICARLA EN INTERNET
+Opción sencilla: entra en https://app.netlify.com/drop y arrastra la CARPETA
+web_no_he_venido con todos sus archivos (o el contenido descomprimido del ZIP).
+Netlify te dará una URL pública. También se puede alojar en GitHub Pages,
+Hostinger, IONOS o cualquier alojamiento de páginas estáticas.
+
+PERSONALIZAR (IMPORTANTE)
+1. ENLACE DEL LIBRO: en script.js, cambia el valor de BOOK_URL por la URL
+   de la ficha INDIVIDUAL del libro en CoolLibri.
+   De momento enlaza a la categoría "Humor", donde aparecía el libro.
+2. CORREO: el enlace del pie de página usa el correo que facilitaste
+   en la ficha de autora. Si no quieres hacerlo público, bórralo o cámbialo.
+3. PORTADA: assets/libro-3d-profesional.png incorpora la nueva imagen profesional del libro
+   aportada por ti. No hace falta sustituirla.
+4. PRECIO: no lo mostramos porque puede variar; se consulta en CoolLibri.
+5. REDES SOCIALES: una vez conozcas la URL definitiva de tu web,
+   cambia og:image en index.html por la URL COMPLETA de assets/compartir.jpg
+   para que el cartel se vea correctamente al compartir en WhatsApp.
+
+ARCHIVOS
+index.html — contenidos, etiquetas y estructura
+styles.css — colores, diseño y formato móvil
+script.js — navegación móvil y comportamiento
+assets/libro-3d-profesional.png — nuevo mockup profesional proporcionado por ti
+assets/yolanda-foto-moto.webp — fotografía nueva de la autora elegida de entre las dos aportadas
+assets/compartir.jpg — cartel para compartir en redes
+assets/favicon.svg — icono de pestaña
+adelanto-no-he-venido-a-caerte-bien.pdf — 6 páginas exactas del PDF final
+
+Nota: El adelanto es una selección de páginas con numeración y maquetación
+originales (prólogo y capítulo 8). No está diseñado como archivo de imprenta.
+
+DISEÑO RESTAURADO (23 OCT 2026):
+Se han preservado exactamente la estructura y el estilo de la web oscura original.
+La portada anterior, extraída de captura, se ha sustituido por la portada original nítida.
+Los recursos originales adicionales están en assets/ por si decides usarlos después.
+
+ACTUALIZACIÓN: foto de Yolanda en la zona LA AUTORA. Diseño original sin cambios.
