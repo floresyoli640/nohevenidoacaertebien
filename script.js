@@ -1,7 +1,7 @@
 'use strict';
 document.documentElement.classList.add('js-ready');
-// EDITA SOLO ESTE ENLACE cuando tengas la URL individual de tu libro en CoolLibri.
-const BOOK_URL = 'https://coollibri.es/biblioteca-libros-autoedicion/humor';
+// Enlace directo a la ficha del libro en CoolLibri.
+const BOOK_URL = 'https://www.coollibri.es/biblioteca-libros-autoedicion/yolanda-flores/no-he-venido-a-caerte-bien_61590';
 
 document.querySelectorAll('.book-link').forEach(link => { link.href = BOOK_URL; });
 document.getElementById('year').textContent = String(new Date().getFullYear());
